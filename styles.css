@@ -1,0 +1,47 @@
+.gloria-hallelujah-regular {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    text-align: justify;
+    font-family: "Gloria Hallelujah" , cursive;
+    background-color: rgb(167, 58, 58);
+    color: white;
+}
+img {
+    height: 250px;
+    border-radius: 8px;
+}
+.photosofs {
+    display: flex;
+    justify-content: center;
+}
+.newpics {
+    display: flex;
+    justify-content: space-evenly; 
+    flex-wrap: wrap;
+}
+h2 {
+    text-align: center;
+    font-family: "Gloria Hallelujah", cursive;
+}
+h3 {
+    text-align: center;
+    font-family: "Gloria Hallelujah", cursive;
+    color: rgb(242, 206, 151);
+    text-decoration: dotted underline;
+}
+.links {
+    text-align: center;
+    color:blanchedalmond;
+}
+.linkspage{
+    text-align: center;
+    color: rgb(242, 206, 151);
+    font-family: "Gloria Hallelujah", cursive;
+}
+.secondp {
+    background-color:  rgb(144, 56, 56);
+}
